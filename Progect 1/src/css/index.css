@@ -1,0 +1,118 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: #ffe2b0;
+}
+header{
+    text-align: center;
+    margin-bottom: 20px;
+}
+ul{
+    padding: 0px;
+    text-align: center;
+    list-style-type: none;
+}
+li{
+    display: inline;
+    margin-right: 100px;
+}
+li:last-child{
+    margin-right: 0px;
+}
+a:hover{
+    color:rebeccapurple;
+    font-size: 20px;
+}
+a{
+    color:black;
+    text-decoration: none;
+    font-size: 18px;
+}
+.import{
+    height: 840px;
+    background-image:url(../img/01-Картинка-фона.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    margin-bottom: 20px;
+}
+.section_about__block{
+    width: 420px;
+    height: 190px;
+    background: linear-gradient(180deg,rgba(244,213,178,0.8)0%,rgba(234,156,65,0.8)100%);
+    position: absolute;
+    top: 54%;
+    left: 50%;
+    text-align: center;
+    padding-top: 15px ;
+}
+.sectyion_about_border{
+    width: 390px;
+    height: 160px;
+    border: 1px solid black;
+    margin: 0 auto;
+    padding: 17px 0 0 28px;
+    text-align: left;
+}
+.h1__{
+    font-size: 36px;
+    margin: 0;
+    margin-top: 9px;
+}
+.p__{
+    font-size: 12px;
+    margin: 0;
+}
+.section_diskription__icon-box{
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+.r{
+    margin-right: 76px;
+}
+.t{
+    margin-right: 76px;
+}
+.y{
+    margin-right: 0px;
+}
+.write{
+    text-align: center;
+    font-size: 96px;
+
+}
+span{
+    color:#F15B40
+}
+.write_{
+    text-align: center;
+    font-size: 18px;
+    width: 1000px;
+    margin: 0px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.write__{
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+iframe{
+    height: 400px;
+    width: 900px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.line{
+    border-top: 1px solid #999999;
+    margin-bottom: 20px;
+    width: 1024px;
+    display: block;
+    margin:0 auto;
+}
+.back{
+    margin-bottom: 40px;
+}
